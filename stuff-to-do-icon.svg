@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <g id="symbol">
+    <g transform="rotate(-15 42 53)">
+      <path fill="#b94e36" fill-rule="evenodd"
+            d="M24 21h37a14 14 0 0 1 14 14v37a14 14 0 0 1-14 14H24a14 14 0 0 1-14-14V35a14 14 0 0 1 14-14ZM24 68a5.8 5.8 0 1 0 11.6 0A5.8 5.8 0 1 0 24 68Zm13-14a5.8 5.8 0 1 0 11.6 0A5.8 5.8 0 1 0 37 54Zm13-14a5.8 5.8 0 1 0 11.6 0A5.8 5.8 0 1 0 50 40Z"/>
+    </g>
+    <path fill="none" stroke="#b94e36" stroke-width="4.8" stroke-linecap="round"
+          d="m70 15 2-7m7 12 7-5m-3 14 8 1"/>
+  </g>
+</svg>
